@@ -1,0 +1,17 @@
+{
+    "name": "UnityUtils.SRP",
+    "rootNamespace": "niscolas.UnityUtils.SRP",
+    "references": [
+        "GUID:9104f28baed89644286c65222185ea59",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

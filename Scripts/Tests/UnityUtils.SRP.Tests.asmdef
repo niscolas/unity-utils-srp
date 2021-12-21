@@ -1,9 +1,10 @@
 {
-    "name": "Module.Tests",
-    "rootNamespace": "",
+    "name": "UnityUtils.SRP.Tests",
+    "rootNamespace": "niscolas.UnityUtils.SRP.Tests",
     "references": [
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEditor.TestRunner",
+        "UnityUtils.SRP"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

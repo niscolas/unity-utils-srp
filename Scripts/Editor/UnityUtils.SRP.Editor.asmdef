@@ -1,7 +1,9 @@
 {
-    "name": "Module.Editor",
-    "rootNamespace": "Module.Editor",
-    "references": [],
+    "name": "UnityUtils.SRP.Editor",
+    "rootNamespace": "niscolas.UnityUtils.SRP.Editor",
+    "references": [
+        "GUID:99709cab533ce664db1af033d2cbc0f4"
+    ],
     "includePlatforms": [
         "Editor"
     ],
