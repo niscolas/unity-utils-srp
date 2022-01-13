@@ -1,0 +1,9 @@
+{
+    "name": "com.niscolas.unity-utils.srp",
+    "version": "0.1.0",
+    "displayName": "UnityUtils.SRP",
+    "unity": "2019.1",
+    "dependencies": {
+        "com.unity.render-pipelines.universal": "7.0.0"
+    }
+}

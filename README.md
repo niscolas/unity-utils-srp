@@ -1,10 +1,29 @@
 # :camera: UnityUtils.SRP
+
 > :bulb: A simple collection of utility scripts related to Unity's Scriptable Render Pipelines
 
 ## :nut_and_bolt: Installation
-1. Clone :arrow_down: this repo inside your Unity project;
-2. Install the dependencies :point_down:.
+
+Follow one of the installation options below, and then install the `Dependencies`
+
+### :package: Package Manager
+
+1. Go to `Window > Package Manager`
+2. Click on the `+` button on the top left
+3. Select `Add package from git URL...`
+4. Paste the URL below :point_down:
+
+```
+https://github.com/niscolas/unity-utils-srp.git
+```
+
+5. Click on the `Add` button
+
+### :cloud: :arrow_down: Git Clone
+
+Just clone :arrow_down: this repo inside your Unity project
 
 ## :chains: Dependencies
+
 - [:zap: UnityUtils.Core](https://github.com/niscolas/unity-utils-core)
 - [:camera: Universal Render Pipeline](https://unity.com/srp/universal-render-pipeline)
