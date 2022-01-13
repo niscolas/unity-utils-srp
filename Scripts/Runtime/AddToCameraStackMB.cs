@@ -7,7 +7,7 @@ namespace niscolas.UnityUtils.SRP
 {
     [AddComponentMenu(Constants.AddComponentMenuPrefix + "Add to Camera Stack")]
     [DisallowMultipleComponent]
-    public class AddToCameraStackMB : AutoTriggerMonoBehaviour
+    public class AddToCameraStackMB : AutoTriggerMB
     {
         [SerializeField]
         private Camera _cameraToAdd;
